@@ -1,0 +1,32 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+
+# Docker
+.dockerignore
+
+# Build output (if any)
+dist/
+build/
+
+# Local coverage reports
+coverage/
+
+# Optional: Ignore Docker volumes if mounted
+volume-data/
